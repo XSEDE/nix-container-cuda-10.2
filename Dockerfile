@@ -5,7 +5,7 @@ FROM xsede/centos-nix-base:latest
 LABEL base_image="xsede/centos-nix-base"
 LABEL version="1.0.0"
 LABEL software="Nix"
-LABEL software.version="1.0.0"
+LABEL software.version="10.2"
 LABEL about.summary="A template container with CUDA 10.2 installed using the Nix package manager in a CentOS 7 environment"
 LABEL about.home="https://github.com/XSEDE/nix-container-cuda-10.2"
 LABEL about.documentation="https://github.com/XSEDE/nix-container-cuda-10.2"
